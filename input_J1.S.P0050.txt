@@ -1,0 +1,16 @@
+# Test cases for J1.S.P0050 Equation Program
+# Format:
+#   For linear equation Ax + B = 0   -> two numbers: A B
+#   For quadratic equation Ax^2 + Bx + C = 0 -> three numbers: A B C
+
+# Linear equations
+1 5
+0 0
+0 3
+-2 4
+
+# Quadratic equations
+1 2 1
+1 -3 2
+1 2 3
+2 5 -3
